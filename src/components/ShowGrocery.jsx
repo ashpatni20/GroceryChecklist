@@ -30,7 +30,7 @@ const ShowGrocery = ({ item, onDelete, checkBox }) => {
       <button
         style={{
           color: "white",
-          backgroundColor: "black",
+          backgroundColor: "#5143bb",
           border: "none",
           padding: "8px",
           cursor: "pointer",

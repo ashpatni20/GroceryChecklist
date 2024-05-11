@@ -8,7 +8,7 @@
 /* CSS */
 .button-59 {
   align-items: center;
-  background-color: #fff;
+  background-color: #5143bb;
   border: 2px solid #000;
   box-sizing: border-box;
   color: #000;
@@ -38,9 +38,9 @@
 }
 
 .button-59:hover {
-  border-color: #06f;
-  color: #06f;
-  fill: #06f;
+  border-color: rgb(168, 171, 175);
+  color: rgb(31, 33, 36);
+  fill: rgb(24, 26, 30);
 }
 
 .button-59:active {

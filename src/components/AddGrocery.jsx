@@ -59,7 +59,7 @@ const AddGrocery = () => {
         padding: "10px 0 20px 0",
       }}
     >
-      <h1 style={{ padding: "40px 80px 60px", fontSize: "3rem"  }}>GROCERY BUD</h1>
+      <h1 style={{ padding: "40px 80px 60px", fontSize: "3rem", color:"#5143bb" }}>GROCERY BUD</h1>
       <input
       style={{
         padding: "10px 80px",
